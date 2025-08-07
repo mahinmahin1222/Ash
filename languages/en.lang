@@ -1,4 +1,3 @@
-{
   greeting: "Hi re babu! 😍 Kemon aacho? Ami ekdom ready tomake help korte!",
   greeting_morning: "Good morning re sunshine! 🌞 Kemon jaachho? Cha khaw ni to?",
   greeting_evening: "Good evening! 😴 Ajkeo amake mone porechho, ki valo tumi!",
@@ -44,4 +43,3 @@
   compliment: "Tumi toh joss, kichu ekta bola jabe na! 💯",
   high_five: "High five! ✋ Tumi joss ekta lok!",
   status_check: "Bot status check kortesi... sab kichu bhalo, ready achhe! ⚡️"
-}
